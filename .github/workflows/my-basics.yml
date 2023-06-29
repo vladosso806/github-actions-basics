@@ -16,7 +16,7 @@ on:
 
 jobs:
   my_jobs:
-    runs-on: ubuntu-latestdda
+    runs-on: ubuntu-latest
 
     steps:
     - name: Print Hello Message in Testing
