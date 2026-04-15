@@ -36,6 +36,8 @@ jobs:
   
     - name: List current folder
       run : ls -la
+    
+    - name: PWD
       run : pwd
   
   my_deploy:
